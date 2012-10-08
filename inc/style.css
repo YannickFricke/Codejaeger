@@ -1,0 +1,27 @@
+*
+{
+	margin : 0;
+	padding: 0:;
+}
+
+#cnt
+{
+	margin-top: 20px;
+	display   : block;
+}
+
+#menu
+{
+	width   : 25%;
+	display : block;
+	position: absolute;
+	float   : left;
+}
+
+#content
+{
+	left    : 25%;
+	display : block;
+	float   : right;
+	position: absolute;
+}
