@@ -1,13 +1,26 @@
-*
+body
 {
+	background-color: #272822;
 	margin : 0;
-	padding: 0:;
+	padding: 0;
+	color: #e6db74;
 }
 
 #cnt
 {
-	margin-top: 20px;
 	display   : block;
+}
+
+#head
+{
+	margin : 0;
+	padding: 0;
+	font-family     : 'Ubuntu', sans-serif;
+	color           : white;
+	background-color: #272822;
+	height          : 50px;
+	margin-bottom   : 20px;
+	padding-left    : 20px;
 }
 
 #menu
@@ -16,12 +29,16 @@
 	display : block;
 	position: absolute;
 	float   : left;
+	padding: auto;
 }
 
 #content
 {
 	left    : 25%;
+	width: 75%;
 	display : block;
 	float   : right;
 	position: absolute;
+	color: #e6db74;
+	background-color: #272822;
 }
