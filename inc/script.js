@@ -11,12 +11,18 @@
   	{
   		LoadFromDB($(this).attr("id"));
   	}
-  });});
+  });
+  });
 
 
   // Add this to the onload event of the BODY element
   function addEvents() {
     activateTree(document.getElementById("LinkedList1"));
+    
+    while ($("#sitemap").css("display") == "none")
+    {
+      $("#sitemap").css("display", "block");
+    }
   }
 
   // This function traverses the list and add links 
@@ -25,8 +31,8 @@
     // Collapse the tree
     for (var i=0; i < oList.getElementsByTagName("ul").length; i++)
     {
-      oList.getElementsByTagName("ul")[i].style.display="none";            
-    }                                                                  
+      oList.getElementsByTagName("ul")[i].style.display="none";
+    }      
     // Add the click-event handler to the list items
     if (oList.addEventListener)
     {
@@ -38,6 +44,14 @@
     }
     // Make the nested items look like links
     addLinksToBranches(oList);
+  }
+
+  function dump(obj) {
+    var out = '';
+    for (var i in obj) {
+        out += i + ": " + obj[i] + "\n";
+    }
+    console.log(out);
   }
 
   // This is the click-event handler
@@ -78,11 +92,11 @@
         cSubBranches = cBranches[i].getElementsByTagName("ul");
         if (cSubBranches.length > 0)
         {
-  		addLinksToBranches(cSubBranches[0]);
-  		cBranches[i].className       = "HandCursorStyle";
-      cBranches[i].style.color = "red";
-      cSubBranches[0].style.color = "black";
-  		cSubBranches[0].style.cursor = "auto";
+          addLinksToBranches(cSubBranches[0]);
+          cBranches[i].className       = "HandCursorStyle";
+          cBranches[i].style.color     = "red";
+          cSubBranches[0].style.color  = "black";
+          cSubBranches[0].style.cursor = "auto";
         }
       }
     }

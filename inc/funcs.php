@@ -47,12 +47,12 @@ function LoadSitemap()
 
 function LoadSitemapSubmenus($parentid)
 {
-	$temp = "";
+	$temp   = "";
 	$sql3   = "SELECT * FROM menu WHERE pid = ".$parentid.";";
 	$query3 = mysql_query($sql3);
 	while ($row2 = mysql_fetch_object($query3))
 	{
-		$temp = "<li id=\"".$row2->id."\"><dl><dt><a href=\"#\">".$row2->name."</a></dt><dd>Text Page</dd><dd>Published</dd><dd><a href=\"#\">delete</a></dd></dl><ul>";
+		$temp  = "<li id=\"".$row2->id."\"><dl><dt><a href=\"#\">".$row2->name."</a></dt><dd>Text Page</dd><dd>Published</dd><dd><a href=\"#\">delete</a></dd></dl><ul>";
 		$temp2 = LoadSitemapSubmenus($row2->id);
 		if ($temp2!='') $temp .= $temp2.'</ul></li></ul>';
 	}

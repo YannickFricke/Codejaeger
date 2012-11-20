@@ -1,0 +1,859 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sty",
+				"style"
+			],
+			[
+				"pad",
+				"padding:   (property)"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pare",
+				"parent_text"
+			],
+			[
+				"te",
+				"test	QUnit test"
+			],
+			[
+				"he",
+				"height  (function)"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"temp",
+				"temp"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"side",
+				"sidebar"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"z",
+				"z-index: ${1001:$SELECTION};"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ar",
+				"Arial"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text-",
+				"text-decoration	zen:css_properties"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"gesh",
+				"geshi"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"arial",
+				"Verdana, Geneva, Arial, Helvetica, sans-serif"
+			],
+			[
+				"c",
+				"checked"
+			],
+			[
+				"da",
+				"datastring"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"wid",
+				"width:   (property)"
+			],
+			[
+				"send",
+				"send_me"
+			],
+			[
+				"mail",
+				"mailcopy"
+			],
+			[
+				"iss",
+				"isset  (function)"
+			],
+			[
+				"for",
+				"formelement"
+			],
+			[
+				"row",
+				"row2"
+			],
+			[
+				"sq",
+				"sql3"
+			],
+			[
+				"Loa",
+				"LoadSubmenus"
+			],
+			[
+				"Mys",
+				"mysql_fetch_object"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"p",
+				"parentid"
+			],
+			[
+				"Lo",
+				"LoadInfSubMenu"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"inc",
+				"incl	include …"
+			],
+			[
+				"mysq",
+				"mysql_fetch_object"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fash",
+				"fashion_logistic_top"
+			],
+			[
+				"fas",
+				"fashion_logistic_top"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"ec",
+				"ecommerce"
+			],
+			[
+				"kont",
+				"kontaktdiv"
+			],
+			[
+				"menu",
+				"menuentry"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"border-r",
+				"border-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pph",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"jquer",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"jqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"batch",
+				"Set Syntax: Batch File"
+			],
+			[
+				"jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"jque",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"swtch",
+				"Snippet: switch …"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"brakc",
+				"Bracket Highlighter: Select Bracket Content"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jQuer",
+				"Snippet: jQuery.each"
+			],
+			[
+				"jQ",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"zen",
+				"Zen Coding: Merge lines"
+			],
+			[
+				"zend",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"package",
+				"Package Control: Add Repository"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"FTPSync: Upload current file"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"obj",
+				"Set Syntax: Objective-C"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/work2/Desktop/UniServer/www/Codejaeger/st2.sublime-workspace",
+		"/C/Users/work2/Desktop/UniServer/www/upload_skript/config.php",
+		"/C/Users/work2/Desktop/UniServer/www/upload_skript/functions.php",
+		"/C/Users/work2/Desktop/UniServer/www/upload_skript/upload.php",
+		"/C/Users/work2/Desktop/UniServer/www/upload_skript/admin/index.php",
+		"/C/Users/work2/Desktop/UniServer/www/upload_skript/index.html",
+		"/C/Users/work2/Desktop/UniServer/www/upload_skript/admin/ajax.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/helper.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/CHANGELOG.php",
+		"/D/Kunden/BSC/07.11.2012/extracted/mod_sl_vmaccordion.xml",
+		"/D/Kunden/BSC/07.11.2012/extracted/mod_sl_vmaccordion.php",
+		"/D/Kunden/BSC/07.11.2012/extracted/helper.php",
+		"/D/Kunden/BSC/07.11.2012/extracted/index.html",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/impressum.php",
+		"/C/Users/work2/Desktop/UniServer/www/upload_skript/bootstrap/css/bootstrap.css",
+		"/C/Users/work2/Desktop/UniServer/www/upload_skript/bootstrap/css/bootstrap.min.css",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/profashion.css",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/ecommerce.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/partner.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/start.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/consulting.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/kontakt_abgeschickt.php",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/modules/mod_ojaccordionmenu/helper.php",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/media/system/js/mootools.js",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/modules/mod_ojaccordionmenu/lib/jquery.js",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/configuration.php",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/modules/mod_ojaccordionmenu/mod_ojaccordionmenu.php",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/media/system/js/caption.js",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/templates/bsc-acosta/ttbsc.js",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/templates/bsc-acosta/swfobject.js",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/templates/bsc-acosta/stats.js",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/templates/bsc-acosta/bsc.js",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/logs/.htaccess",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/robots.txt",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/htaccess.txt___real",
+		"/C/Users/work2/Desktop/UniServer/www/bsc-acosta.de/.htaccess",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/swfobject 2.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/ttbsc 2.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/configuration.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/templates/bsc-acosta/index.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/stats 2.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/bsc 2.js",
+		"/C/Users/work2/Desktop/Joomla Update/INSTALL.php",
+		"/C/Users/work2/Downloads/m4s0f_languages (1).sql",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/images/stories/story.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/images/banners/.cache_jwldns.php",
+		"/C/Users/work2/Downloads/m4s0f_languages.sql",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/web.config.txt",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/work2/Desktop/Joomla Update/ttbsc.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/bsc.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/stats.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/ttbsc.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/swfobject.js",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/administrator/components/com_admin/admin.admin.html.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/administrator/index.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/configuration.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/index.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/.htaccess 2",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/logs/index.html",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/logs/.htaccess",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/cache/123234/d2b4bfa4986623f6f4c3b16d1b81d91b.spc",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/administrator/language/de-DE/de-DE.ini",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/administrator/language/de-DE/de-DE.com_config.ini",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/includes/database.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/test.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/plugins/system/legacy/functions.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/includes/database.mysqli.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/includes/framework.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/libraries/geshi/geshi/mysql.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/libraries/geshi/geshi/php.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/libraries/domit/php_http_client_include.php",
+		"/D/Kunden/BSC/05.11.2012/bsc-acosta.de/index2.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/form.php",
+		"/D/Kunden/BSC/05.11.2012/index3.php",
+		"/D/Kunden/BSC/05.11.2012/index2.php",
+		"/D/Kunden/BSC/05.11.2012/index.php",
+		"/D/Backups/Zone BS/01_11_2012_13_53/wp-content/themes/escalation/functions/theme_shortcodes.php",
+		"/D/Backups/Zone BS/01_11_2012_13_53/ausgabe.txt",
+		"/C/Users/work2/Desktop/UniServer/www/wordpress/wp-includes/post.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/bsc.de1.cc-2010-11-05",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/270212-media-2012-10-15",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/270212-ftp-2011-09-27",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/270212-damen-2012-04-28",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/270212-ftp-2012-11-02",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/270212-ftp-2012-11-01",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/bsc.de1.cc-2012-10-30",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/jquery.themepunch.lightbox.js",
+		"/J/s4y.txt",
+		"/C/Users/work2/Desktop/screen.php",
+		"/C/Users/work2/Desktop/UniServer/www/wordpress/wp-content/themes/escalation/header.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/screen.php",
+		"/C/Users/work2/Desktop/lightbox/index.html",
+		"/D/Backups/Zone BS/31_10_2012_09_15/wp-content/themes/escalation/portfolio.php",
+		"/C/Users/work2/Desktop/lightbox/js/lightbox.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/single.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/jquery.themepunch.lightbox-v2.js",
+		"/D/Backups/Zone BS/01_11_2012_13_53/wp-content/themes/escalation/ausgabe.txt",
+		"/D/Backups/Zone BS/31_10_2012_09_15/wp-content/themes/escalation/js/README.md",
+		"/D/Backups/Zone BS/31_10_2012_09_15/wp-content/themes/escalation/js/jquery.themepunch.lightbox-v2.js",
+		"/D/Backups/Zone BS/31_10_2012_09_15/wp-content/themes/escalation/js/jquery.themepunch.lightbox.js",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/content.php",
+		"/C/Users/work2/Desktop/lightbox/css/screen.css",
+		"/C/Users/work2/AppData/Roaming/Sublime Text 2/Packages/User/sftp_servers/profashion",
+		"/C/Users/work2/Desktop/UniServer/www/Codejaeger/inc/admin.js",
+		"/D/Kunden/adexx/Seite_überschreiben/adexx_systemline_pl.html",
+		"/D/Kunden/adexx/Seite_überschreiben/adexx_leuchtenmasten.html",
+		"/D/Kunden/adexx/Seite_überschreiben/adexx_z_produkte.html",
+		"/C/Users/work2/Desktop/UniServer/www/Codejaeger/admin/index.php",
+		"/C/Users/work2/Desktop/UniServer/www/Codejaeger/inc/funcs.php",
+		"/Z/Yannick/_Jobs/Adexx/data.txt",
+		"/Z/Yannick/_Jobs/Adexx/FTP.txt",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/adexx.css",
+		"/D/Kunden/adexx/Seite_überschreiben/adexx_systemline_epl.html",
+		"/D/Kunden/adexx/Seite_überschreiben/adexx_gelaendeschellen_produkte.html",
+		"/D/Kunden/adexx/Seite_überschreiben/adexx_systemline_f.html",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/translate.php",
+		"/D/Kunden/adexx/Seite_überschreiben/adexx_info_legende.html",
+		"/D/Kunden/adexx/Seite/index.html",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-1/produktliste.php",
+		"/C/Users/work2/AppData/Local/Temp/fz3temp-2/adexx.css",
+		"/D/Backups/Adexx/adexx.de/adexx-inhalt/listing/templates/adexx_systemline_epl.html",
+		"/D/Kunden/adexx/Seite/Produktliste.htm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br />",
+			"impo",
+			"Support",
+			"Fehler",
+			"\\n",
+			"doc",
+			"document",
+			"Vers",
+			"http",
+			".htaccess",
+			".php",
+			"function get_post($",
+			"get_post($",
+			"get_page",
+			"initHovering",
+			"init",
+			"lightb",
+			"darker_overlay",
+			"s",
+			"darker_overlay",
+			"overlay",
+			"console.l",
+			"lb-image",
+			"preloader =",
+			"$(window)",
+			"$window",
+			"window",
+			"max",
+			"height",
+			"widt",
+			"<sc",
+			".PDF",
+			"/3fx_media_module/3fx_listing/bilder/artikel/org/",
+			"h2",
+			"/*",
+			"pdlist",
+			"/3fx_media_module/3fx_listing/bilder/artikel/org/",
+			"img/PDF.jpg",
+			"starr",
+			"img/PDF.jpg",
+			"/3fx_media_module/3fx_listing/bilder/artikel/org/",
+			"img/",
+			"plist",
+			"pdlist",
+			"<!-- neuer Abschnitt --> \n<img",
+			" style=\"margin-bottom: 450px;\"",
+			" style=\"margin-bottom: 455px;\"",
+			"450px",
+			"main",
+			"height",
+			"#main",
+			"pdlis",
+			".plist.*\\{",
+			".plist {",
+			".plist",
+			"<div class=\"plist\">\n	<h1>.*<span>.*</span></h1>",
+			"plist",
+			"Produktliste_files",
+			"tp-",
+			"thisw",
+			"function _res",
+			"resize",
+			"imgh",
+			"lboxitem=",
+			"lboxitem\\..*height",
+			"lboxitem",
+			"tp-lightboxactitem",
+			"height",
+			".tplightboxsolo",
+			"<script",
+			"<script>",
+			"<script",
+			"<sc",
+			"script",
+			"width",
+			"setRollOver",
+			"startLightBoxSolo",
+			"addNewLightBoxItem",
+			"dark-lightbox",
+			"infofield",
+			"height",
+			";",
+			"$_GET",
+			"lightb",
+			"error",
+			"\"",
+			"z-index",
+			"\\n",
+			"E0B8B9FA",
+			"6E323F2F",
+			"----- BEGIN LICENSE -----\n3FX media GmbH\nSingle User License\nEA7E-827310\n6DF28B22 747689DB 982C65E6 2720BAD9\n6C9127F8 0AC90C5B FAF4260F 871282AE\n1FA50E0D B60E920F 6B74CD9C 92F9E4F1\n52B3F4BA 26092B4C D3347A11 10418410\nB8ED1307 C4ADEFAB 358513F9 6E323F2F\n4790B630 8C20BA7A BCD54491 E0B8B9FA\nB4C41D14 C4552A82 B47E102C AD078C39\nFAE40969 EDFD5EBB 119F9591 716DAF66\n------ END LICENSE ------",
+			"commit",
+			"push",
+			"widt",
+			"get_blogin",
+			"function get_header",
+			"function get_header\\(.*\\)",
+			"get_header",
+			"site-title",
+			"site-t",
+			"post",
+			"post-1",
+			".*article.*post-1.*",
+			".*post-1.*article.*",
+			"post-1.*article",
+			"post-1 article",
+			"article post-1",
+			"article",
+			"http://pervent.3fx-media.de",
+			"\\n",
+			"parse_co",
+			"incl",
+			"__co",
+			"->",
+			"ESCAPE_REGEXP",
+			"\\$",
+			"quot",
+			"&quot;",
+			"\"",
+			"black",
+			"hljs = ",
+			"$",
+			"img",
+			"\\n",
+			"\">.*",
+			" - .*",
+			"\" - ",
+			"</a>"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<br />\\n",
+			"<br />",
+			".pdf",
+			"/adexx-media/produkte/",
+			"/adexx-media/produkte/PDF.jpg",
+			"/adexx-media/produkte/",
+			"<!-- neuer Abschnitt --> \n<img class=\"banner\"",
+			"",
+			"455px",
+			"<div class=\"plist\">\n	",
+			"img",
+			";\\n	",
+			";\\n",
+			"\\\"",
+			"<br />",
+			"",
+			"<br />\\n",
+			"<br />",
+			"",
+			" - ",
+			"",
+			" - ",
+			"",
+			"<br />",
+			"\\n",
+			"\\r\\n",
+			"",
+			"src=\"http://profashion.3fx-media.de/boardjunkies/img/",
+			"<br />",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
