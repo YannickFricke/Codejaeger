@@ -4,7 +4,7 @@
 <html>
 	<head>
 		<title>Codej&auml;ger</title>
-	    <script src="http://code.jquery.com/jquery-1.8.2.min.js" type="text/JavaScript"></script>
+	    <script src="inc/jquery-1.8.2.js" type="text/JavaScript"></script>
 	    <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 	    <link rel="stylesheet/less" type="text/css" href="inc/style.css?ts=<?=filemtime('inc/style.css')?>">
